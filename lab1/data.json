@@ -1,0 +1,428 @@
+[
+	{
+		"name":"Mens 100 metre freestyle Final",
+		"competition":"2024 Paris Summer Olympics",
+		"location":"Paris, France",
+		"date":"2024-07-31",
+		"phase":"Final",
+		"distance":"100",
+		"wr":"true",
+		"olr":"true",
+		"venue":{"name":"Paris La Defense Arena"},
+		"category":{"name":"Freestyle"},
+		"medalists":[
+				{
+					"name":"Pan Zhanle",
+					"country":"China",
+					"sex":"M",
+					"rank":"1",
+					"time":"46.40"
+				},
+				{
+					"name":"Kyle Chalmers",
+					"country":"Australia",
+					"sex":"M",
+					"rank":"2",
+					"time":"47.48"
+				},
+				{
+					"name":"David Popovici",
+					"country":"Romania",
+					"sex":"M",
+					"rank":"3",
+					"time":"47.49"
+				}
+		]
+		
+	},
+	{
+		"name":"Womens 100 metre freestyle Final",
+		"competition":"2024 Paris Summer Olympics",
+		"location":"Paris, France",
+		"date":"2024-07-31",
+		"phase":"Final               ",
+		"distance":"100",
+		"wr":"false",
+		"olr":"false",
+		"venue":{"name":"Paris La Defense Arena"},
+		"category":{"name":"Freestyle"},
+		"medalists":[
+				{
+					"name":"Sarah Sjostrom",
+					"country":"Sweden",
+					"sex":"F",
+					"rank":"1",
+					"time":"52.16"
+				},
+				{
+					"name":"Torri Huske",
+					"country":"USA",
+					"sex":"F",
+					"rank":"2",
+					"time":"52.29"
+				},
+				{
+					"name":"Siobhan Haughey",
+					"country":"Hong Kong",
+					"sex":"F",
+					"rank":"3",
+					"time":"52.33"
+				}
+		]
+		
+	},
+	{
+		"name":"2020 Mens 100 metre freestyle Final",
+		"competition":"2020 Tokyo Summer Olympics",
+		"location":"Tokyo, Japan",
+		"date":"2020-07-29",
+		"phase":"Final",
+		"distance":"100",
+		"wr":"false",
+		"olr":"true",
+		"venue":{"name":"Tokyo Aquatics Centre"},
+		"category":{"name":"Freestyle "},
+		"medalists":[
+				{
+					"name":"Caeleb Dressel",
+					"country":"USA",
+					"sex":"M",
+					"rank":"1",
+					"time":"47.02"
+				},
+				{
+					"name":"Kliment Kolesnikov",
+					"country":"Russia",
+					"sex":"M",
+					"rank":"3",
+					"time":"47.44"
+				}
+		]
+		
+	},
+	{
+		"name":"2020 Womens 100 metre freestyle Final",
+		"competition":"2020 Tokyo Summer Olympics",
+		"location":"Tokyo, Japan",
+		"date":"2020-07-30",
+		"phase":"Final",
+		"distance":"100",
+		"wr":"false",
+		"olr":"true",
+		"venue":{"name":"Tokyo Aquatics Centre"},
+		"category":{"name":"Freestyle"},
+		"medalists":[
+				{
+					"name":"Emma McKeon",
+					"country":"Australia",
+					"sex":"F",
+					"rank":"1",
+					"time":"51.96"
+				},
+				{
+					"name":"Siobhan Haughey",
+					"country":"Hong Kong",
+					"sex":"F",
+					"rank":"2",
+					"time":"52.27"
+				},
+				{
+					"name":"Cate Campbell",
+					"country":"Australia",
+					"sex":"F",
+					"rank":"3",
+					"time":"52.52"
+				}
+		]
+		
+	},
+	{
+		"name":"2016 Womens 100 metre freestyle Final",
+		"competition":"2016 Rio Summer Olympics",
+		"location":"Rio de Janeiro, Brazil",
+		"date":"2016-08-11",
+		"phase":"Final",
+		"distance":"100",
+		"wr":"false",
+		"olr":"true",
+		"venue":{"name":"Rio Olympic Aquatics Stadium"},
+		"category":{"name":"Freestyle "},
+		"medalists":[
+				{
+					"name":"Penny Oleksiak",
+					"country":"Canada",
+					"sex":"F",
+					"rank":"1",
+					"time":"52.70"
+				},
+				{
+					"name":"Simone Manuel",
+					"country":"USA",
+					"sex":"F",
+					"rank":"2",
+					"time":"52.70"
+				},
+				{
+					"name":"Sarah Sjostrom",
+					"country":"Sweden",
+					"sex":"F",
+					"rank":"3",
+					"time":"52.99"
+				}
+		]
+		
+	},
+	{
+		"name":"2016 Mens 100 metre freestyle Final",
+		"competition":"2016 Rio Summer Olympics",
+		"location":"Rio de Janeiro, Brazil",
+		"date":"2016-08-10",
+		"phase":"Final",
+		"distance":"100",
+		"wr":"false",
+		"olr":"false",
+		"venue":{"name":"Rio Olympic Aquatics Stadium"},
+		"category":{"name":"Freestyle"},
+		"medalists":[
+				{
+					"name":"Kyle Chalmers",
+					"country":"Australia",
+					"sex":"M",
+					"rank":"1",
+					"time":"47.58"
+				},
+				{
+					"name":"Pieter Timmers",
+					"country":"Belgium",
+					"sex":"M",
+					"rank":"2",
+					"time":"47.80"
+				},
+				{
+					"name":"Nathan Adrian",
+					"country":"USA",
+					"sex":"M",
+					"rank":"3",
+					"time":"47.85"
+				}
+		]
+		
+	},
+	{
+		"name":"2024 Mens 100 metre backstroke Final",
+		"competition":"2024 Paris Summer Olympics",
+		"location":"Paris, France",
+		"date":"2024-07-29",
+		"phase":"Final",
+		"distance":"100",
+		"wr":"false",
+		"olr":"false",
+		"venue":{"name":"Paris La Defense Arena"},
+		"category":{"name":"Backstroke"},
+		"medalists":[
+				{
+					"name":"Thomas Ceccon",
+					"country":"Italy",
+					"sex":"M",
+					"rank":"1",
+					"time":"52.00"
+				},
+				{
+					"name":"Xu Jiayu",
+					"country":"China",
+					"sex":"M",
+					"rank":"2",
+					"time":"52.32"
+				},
+				{
+					"name":"Ryan Murphy",
+					"country":"USA",
+					"sex":"M",
+					"rank":"3",
+					"time":"52.39"
+				}
+		]
+		
+	},
+	{
+		"name":"2024 Womens 100 metre backstroke Final",
+		"competition":"2024 Paris Summer Olympics",
+		"location":"Paris, France",
+		"date":"2024-07-30",
+		"phase":"Final",
+		"distance":"100",
+		"wr":"false",
+		"olr":"true",
+		"venue":{"name":"Paris La Defense Arena"},
+		"category":{"name":"Backstroke"},
+		"medalists":[
+				{
+					"name":"Kaylee McKeown",
+					"country":"Australia",
+					"sex":"F",
+					"rank":"1",
+					"time":"57.33"
+				},
+				{
+					"name":"Regan Smith",
+					"country":"USA",
+					"sex":"F",
+					"rank":"2",
+					"time":"57.66"
+				},
+				{
+					"name":"Katharine Berkoff",
+					"country":"USA",
+					"sex":"F",
+					"rank":"3",
+					"time":"57.98"
+				}
+		]
+		
+	},
+	{
+		"name":"2024 Womens 100 metre butterfly Final",
+		"competition":"2024 Paris Summer Olympics",
+		"location":"Paris, France",
+		"date":"2024-07-28",
+		"phase":"Final",
+		"distance":"100",
+		"wr":"false",
+		"olr":"false",
+		"venue":{"name":"Paris La Defense Arena"},
+		"category":{"name":"Butterfly"},
+		"medalists":[
+				{
+					"name":"Torri Huske",
+					"country":"USA",
+					"sex":"F",
+					"rank":"1",
+					"time":"55.59"
+				},
+				{
+					"name":"Gretchen Walsh",
+					"country":"USA",
+					"sex":"F",
+					"rank":"2",
+					"time":"55.63"
+				},
+				{
+					"name":"Zhang Yufei",
+					"country":"China",
+					"sex":"F",
+					"rank":"3",
+					"time":"56.21"
+				}
+		]
+		
+	},
+	{
+		"name":"2024 Womens 200 metre butterfly Final",
+		"competition":"2024 Paris Summer Olympics",
+		"location":"Paris, France",
+		"date":"2024-08-01",
+		"phase":"Final",
+		"distance":"200",
+		"wr":"false",
+		"olr":"true",
+		"venue":{"name":"Paris La Defense Arena"},
+		"category":{"name":"Butterfly"},
+		"medalists":[
+				{
+					"name":"Summer McIntosh",
+					"country":"Canada",
+					"sex":"F",
+					"rank":"1",
+					"time":"123.03"
+				},
+				{
+					"name":"Regan Smith",
+					"country":"USA",
+					"sex":"F",
+					"rank":"2",
+					"time":"123.84"
+				},
+				{
+					"name":"Zhang Yufei",
+					"country":"China",
+					"sex":"F",
+					"rank":"3",
+					"time":"125.09"
+				},
+		]
+		
+	},
+	{
+		"name":"2024 Womens 200 metre butterfly Semifinals",
+		"competition":"2024 Paris Summer Olympics",
+		"location":"Paris, France",
+		"date":"2024-07-31",
+		"phase":"Semifinals",
+		"distance":"200",
+		"wr":"false",
+		"olr":"false",
+		"venue":{"name":"Paris La Defense Arena"},
+		"category":{"name":"Butterfly"},
+		"medalists":[
+				{
+					"name":"Summer McIntosh",
+					"country":"Canada",
+					"sex":"F",
+					"rank":"3",
+					"time":"124.87"
+				},
+				{
+					"name":"Regan Smith",
+					"country":"USA",
+					"sex":"F",
+					"rank":"2",
+					"time":"125.39"
+				},
+				{
+					"name":"Zhang Yufei",
+					"country":"China",
+					"sex":"F",
+					"rank":"3",
+					"time":"126.09"
+				},
+		]
+		
+	},
+	{
+		"name":"2024 Mens 200 metre freestyle Semifinals",
+		"competition":"2024 Paris Summer Olympics",
+		"location":"Paris, France",
+		"date":"2024-07-28",
+		"phase":"Semifinals",
+		"distance":"200",
+		"wr":"false",
+		"olr":"false",
+		"venue":{"name":"Paris La Defense Arena"},
+		"category":{"name":"Freestyle"},
+		"medalists":[
+				{
+					"name":"David Popovici",
+					"country":"Romania",
+					"sex":"M",
+					"rank":"1",
+					"time":"104.53"
+				},
+				{
+					"name":"Duncan Scott",
+					"country":"UK",
+					"sex":"M",
+					"rank":"2",
+					"time":"104.94"
+				},
+				{
+					"name":"Luke Hobson",
+					"country":"USA",
+					"sex":"M",
+					"rank":"3",
+					"time":"105.19"
+				},
+		]
+		
+	}
+	
+]
